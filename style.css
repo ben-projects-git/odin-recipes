@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+}
+
+.Burgers {
+    background-color: green;
+    font-weight: 800;
+    text-align: left;
+}
+
+.KFC, 
+.Burgers {
+    background-color: pink;
+}
